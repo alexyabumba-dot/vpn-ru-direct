@@ -3,6 +3,14 @@
     "vk": [
       "vk.com",
       "vk.ru"
-    ]
+    ],
+    "yandex": ["yandex.ru", "ya.ru"],
+    "gosuslugi": ["gosuslugi.ru"],
+    "ozon": ["ozon.ru"],
+    "wildberries": ["wildberries.ru", "wb.ru"],
+    "sberbank": ["sberbank.ru", "sber.ru", "sberbank.com", "sbrf.ru"],
+    "credit_europe_bank": ["crediteurope.ru"],
+    "alfa_bank": ["alfabank.ru"],
+    "tbank": ["tbank.ru"]
   }
 }

@@ -3,8 +3,21 @@
   "rules": [
     {
       "domain_suffix": [
+        "alfabank.ru",
+        "crediteurope.ru",
+        "gosuslugi.ru",
+        "ozon.ru",
+        "sber.ru",
+        "sberbank.com",
+        "sberbank.ru",
+        "sbrf.ru",
+        "tbank.ru",
         "vk.com",
-        "vk.ru"
+        "vk.ru",
+        "wb.ru",
+        "wildberries.ru",
+        "ya.ru",
+        "yandex.ru"
       ]
     }
   ]
