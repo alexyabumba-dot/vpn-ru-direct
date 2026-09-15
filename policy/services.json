@@ -11,6 +11,7 @@
     "sberbank": ["sberbank.ru", "sber.ru", "sberbank.com", "sbrf.ru"],
     "credit_europe_bank": ["crediteurope.ru"],
     "alfa_bank": ["alfabank.ru"],
-    "tbank": ["tbank.ru"]
+    "tbank": ["tbank.ru"],
+    "max": ["max.ru"]
   }
 }

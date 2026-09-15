@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-09-15 — Этап 3: добавлен MAX
+
+- Добавлен сервис MAX.
+- `max.ru` включён в DIRECT whitelist с domain suffix semantics.
+
 ## 2026-09-15 — Этап 2: расширен DIRECT whitelist
 
 - Добавлены Яндекс, Госуслуги, Ozon, Wildberries, Сбербанк, Кредит Европа Банк, Альфа-Банк и Т-Банк.
